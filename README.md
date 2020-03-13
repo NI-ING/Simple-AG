@@ -1,7 +1,8 @@
 # Simple-AG
 
+
 this is for inderstand how  Genetic Algorithms work 
 
-with  all components :
+## Python
 
 **crossover , mutation , fitness function  , selection  function , population**
